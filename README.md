@@ -1,2 +1,2 @@
 # Powerplant-energy-prediction
-with sklearn
+Simple linear regression prediction with sklearn
